@@ -1,6 +1,6 @@
 # Persona Chatbot (Historical Figure)
 
-Original PS16 mini project by Saanvi Rajendra Dhote, Roll No. 16, LY CORE 3 (https://github.com/Saanvi1710/llm-ps16-16).
+Original PS16 mini project by Sujal Ganehs Deshmukh, Roll No. 16, LY CORE 5.
 
 Interface redesign (front end only: `app/static/index.html`, `app/static/styles.css`) and new screenshots by Sujal Ganesh Deshmukh, LY Core 5, Roll No. 16. The backend, API, database and persona prompts are unchanged from the original.
 
